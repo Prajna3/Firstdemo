@@ -6,6 +6,7 @@ kheer
 pasta
 chocolate
 
-
+beans
+pizza
 
 thank you
